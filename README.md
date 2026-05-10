@@ -1,102 +1,212 @@
 # Monk9Tech VLSI Internship Tasks
 
-This repository contains the tasks, notes, and learning work completed during my internship at **Monk9 Tech Pvt. Ltd.**
+This repository contains the tasks, practical work, notes, and learning outcomes completed during my internship at **Monk9 Tech Pvt. Ltd.**
 
 ---
 
-## 📅 Day 1: Overview of Physical Design
-- Introduction to ASIC Design Flow  
-- Basics of Physical Design  
-- Floorplanning Concepts  
-- Overview of VLSI Design Process  
+# 📌 Internship Overview
+
+- **Company:** Monk9 Tech Private Limited  
+- **Domain:** Semiconductor Technology & VLSI  
+- **Internship Area:** VLSI Design, Linux, Embedded Systems & AI/ML  
+- **Duration:** 6 Months (24 Weeks)  
+- **College:** Government Polytechnic Rajkot  
+- **Department:** Information & Communication Technology (ICT)  
 
 ---
 
-## 📅 Day 2: GitHub & Linux Introduction
-- GitHub Account Setup  
-- Repository Creation & README Basics  
-- Linux Basic Commands  
-- File & Directory Management  
+# 📅 Week-wise Internship Learning
+
+## 📅 Week 1 – Company Introduction & Industry Overview
+- Company orientation  
+- Introduction to industrial workflow  
+- Semiconductor industry overview  
+- Understanding internship structure  
 
 ---
 
-## 📅 Day 3: Floorplanning & Linux Labs
-- Basics of Floorplanning  
-- GitHub Practical Tasks  
-- Linux Terminal Practice  
-- README File Formatting  
+## 📅 Week 2 – Semiconductor Fundamentals
+- Semiconductor materials  
+- Conductors, Insulators & Semiconductors  
+- Semiconductor working principles  
+- Basic electronic components  
 
 ---
 
-## 📅 Day 4: ASIC Design Concepts
-- Introduction to Standard Cells  
-- Placement & Routing Basics  
+## 📅 Week 3 – Semiconductor Applications
+- Semiconductor devices  
+- Diodes & Transistors  
+- Electronic circuit basics  
+- Applications of semiconductors  
+
+---
+
+## 📅 Week 4 – Chip Manufacturing Process
+- Wafer preparation  
+- Oxidation process  
+- Photolithography process  
+- Etching & Doping techniques  
+
+---
+
+## 📅 Week 5 – Advanced Chip Manufacturing
+- Metallization process  
+- Deposition techniques  
+- Chip testing concepts  
+- Packaging process  
+
+---
+
+## 📅 Week 6 – Introduction to VLSI
+- Basics of VLSI Technology  
+- ASIC Design Flow Overview  
+- IC Design Concepts  
+- VLSI Design Process  
+
+---
+
+## 📅 Week 7 – Physical Design Basics
+- Introduction to Physical Design  
 - Physical Design Stages  
-- IC Design Flow Overview  
+- Standard Cell Basics  
+- IC Physical Design Flow  
 
 ---
 
-## 📅 Day 5: FPGA & RTL Basics
+## 📅 Week 8 – Floorplanning Concepts
+- Basics of Floorplanning  
+- Core & Die Area Concepts  
+- Power Planning Basics  
+- Floorplan Optimization  
+
+---
+
+## 📅 Week 9 – Placement Concepts
+- Placement Basics  
+- Standard Cell Placement  
+- Placement Flow Understanding  
+- Cell Optimization Concepts  
+
+---
+
+## 📅 Week 10 – Routing Concepts
+- Routing Fundamentals  
+- Signal Routing Concepts  
+- Clock Tree Basics  
+- Routing Optimization Basics  
+
+---
+
+## 📅 Week 11 – FPGA Introduction
 - Introduction to FPGA  
-- D Flip-Flop Design  
+- FPGA Architecture Basics  
+- FPGA Applications  
+- FPGA Design Flow  
+
+---
+
+## 📅 Week 12 – RTL & Verilog HDL
 - RTL Design Concepts  
 - Verilog HDL Basics  
+- D Flip-Flop Design  
+- Digital Logic Fundamentals  
 
 ---
 
-## 📅 Day 6: Semiconductor Technology
-- Semiconductor Fundamentals  
-- Conductors, Insulators & Semiconductors  
-- Semiconductor Applications  
-- Basic Electronic Components  
+## 📅 Week 13 – Advanced VLSI Concepts
+- Circuit Simulation Basics  
+- Timing Analysis Concepts  
+- Physical Verification Basics  
+- Design Optimization Concepts  
 
 ---
 
-## 📅 Day 7: Chip Manufacturing Process
-- Wafer Preparation  
-- Oxidation & Photolithography  
-- Etching & Doping  
-- Testing & Packaging Process  
-
----
-
-## 📅 Day 8: Embedded Systems
-- Introduction to Embedded Systems  
-- Sensors & Microcontrollers  
-- Real-Time Embedded Applications  
-- Hardware & Software Integration  
-
----
-
-## 📅 Day 9: Artificial Intelligence & Machine Learning
-- Introduction to AI & ML  
-- Basic AI Concepts  
-- Machine Learning Workflow  
-- Real-World AI Applications  
-
----
-
-## 📅 Day 10: Linux Operating System
+## 📅 Week 14 – Linux Operating System
 - Ubuntu Installation  
 - Linux Terminal Commands  
-- File Handling & Directory Management  
+- File & Directory Management  
 - Command-Line Operations  
 
 ---
 
-## 📅 Day 11: GitHub & LinkedIn Development
-- GitHub Repository Management  
-- README File Design  
-- LinkedIn Profile Development  
-- Professional Networking Basics  
+## 📅 Week 15 – Linux Practical Work
+- Linux File Permissions  
+- Shell Commands Practice  
+- User & Process Management  
+- System Operations Basics  
 
 ---
 
-## 📅 Day 12: Industrial Learning & Revision
-- Revision of Internship Topics  
-- Understanding Industrial Workflow  
-- Practical Learning Review  
-- Technical Knowledge Improvement  
+## 📅 Week 16 – GitHub & Version Control
+- GitHub Account Setup  
+- Repository Creation  
+- Git & GitHub Basics  
+- Version Control Concepts  
+
+---
+
+## 📅 Week 17 – README & Documentation
+- README File Design  
+- Markdown Formatting  
+- Technical Documentation  
+- Repository Management  
+
+---
+
+## 📅 Week 18 – LinkedIn Profile Development
+- LinkedIn Profile Creation  
+- Skills & Project Management  
+- Professional Networking  
+- Technical Profile Development  
+
+---
+
+## 📅 Week 19 – Embedded Systems
+- Introduction to Embedded Systems  
+- Microcontrollers & Sensors  
+- Hardware & Software Integration  
+- Embedded Applications  
+
+---
+
+## 📅 Week 20 – IoT & Automation
+- Arduino Basics  
+- ESP32 & NodeMCU  
+- Sensors & Automation  
+- Real-Time IoT Applications  
+
+---
+
+## 📅 Week 21 – Artificial Intelligence
+- Introduction to Artificial Intelligence  
+- AI Concepts & Workflow  
+- AI Applications in Industry  
+- Intelligent Systems Overview  
+
+---
+
+## 📅 Week 22 – Machine Learning Basics
+- Introduction to Machine Learning  
+- Data-Driven Systems  
+- Machine Learning Workflow  
+- Basic ML Concepts  
+
+---
+
+## 📅 Week 23 – Practical AI/ML Learning
+- Basic Model Implementation  
+- Practical AI/ML Examples  
+- Intelligent System Understanding  
+- Real-Time Application Concepts  
+
+---
+
+## 📅 Week 24 – Revision & Final Learning Outcome
+- Revision of internship topics  
+- Practical learning review  
+- Technical concept reinforcement  
+- Industrial workflow understanding  
+- Overall technical knowledge improvement  
 
 ---
 
@@ -127,50 +237,38 @@ This repository contains the tasks, notes, and learning work completed during my
 ---
 
 ## ⚡ VLSI & Semiconductor
+- ASIC Design Flow  
 - Physical Design Basics  
 - Floorplanning  
-- ASIC Design Flow  
+- Placement & Routing  
 - FPGA Basics  
+- Verilog HDL  
 - Chip Manufacturing Process  
-
----
-
-# 🧠 Technologies Learned
-
-## 🔹 Semiconductor Technology
-Learned the fundamentals of semiconductor materials, electronic devices, and modern chip technologies used in electronic systems.
-
----
-
-## 🔹 Embedded Systems
-Understood the basics of embedded systems, microcontrollers, sensors, and real-world automation applications.
-
----
-
-## 🔹 VLSI Design
-Studied VLSI concepts, IC design flow, floorplanning, and digital circuit design fundamentals.
-
----
-
-## 🔹 Artificial Intelligence & Machine Learning
-Learned AI/ML fundamentals, data-driven systems, and practical applications of intelligent technologies.
-
----
-
-## 🔹 Linux Operating System
-Practiced Ubuntu installation, Linux commands, terminal operations, and file management techniques.
 
 ---
 
 # 🚀 Skills Acquired
 - Linux Command-Line Usage  
 - GitHub Repository Management  
+- README Documentation  
 - Basic Verilog Coding  
 - Semiconductor Fundamentals  
 - Problem-Solving Skills  
+- Technical Communication  
 - Team Collaboration  
 - Time Management  
-- Professional Communication  
+
+---
+
+# 🎯 Internship Outcome
+This internship provided practical exposure to semiconductor technology, physical design, FPGA concepts, embedded systems, Linux, GitHub, and AI/ML technologies.
+
+It improved:
+- Technical Knowledge  
+- Communication Skills  
+- Problem-Solving Ability  
+- Teamwork & Time Management  
+- Professional Confidence  
 
 ---
 
@@ -187,17 +285,8 @@ Government Polytechnic Rajkot
 
 ---
 
-# 🎯 Internship Outcome
-This internship provided practical exposure to semiconductor technology, VLSI design, embedded systems, Linux, GitHub, and AI/ML concepts. It improved my technical knowledge, confidence, and understanding of real-world industrial workflows.
-
----
-
-# 📖 References
-- Monk9 Tech Pvt. Ltd. Training Materials  
-- GitHub Documentation  
-- Linux & Ubuntu Tutorials  
-- Semiconductor & VLSI Learning Resources  
-- AI & Machine Learning Educational Resources  
+# ⭐ Conclusion
+The internship at **Monk9 Tech Pvt. Ltd.** was a valuable learning experience that strengthened my technical skills and industrial knowledge. It provided practical exposure to modern technologies and helped me understand professional work culture in the semiconductor and VLSI domain.
 
 ---
 
