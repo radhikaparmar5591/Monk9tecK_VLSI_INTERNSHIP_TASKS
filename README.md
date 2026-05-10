@@ -6,8 +6,6 @@ The repository includes important topics related to semiconductor technology, VL
 
 ---
 
-# 📂 Repository Topics
-
 ## 📘 1. Semiconductor Fundamentals
 Topics Covered:
 - Semiconductor materials  
